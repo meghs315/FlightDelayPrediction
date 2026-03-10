@@ -49,7 +49,7 @@ Models:
 - Neural Network
 
 ## Evaluation
-Models are evaluated using an **80/20 train-test split** and **5-fold cross-validation**.
+Models are evaluated using an **70/30 train-test split** and **5-fold cross-validation**.
 
 Metrics include:
 - **Binary Classification:** F1-score, accuracy, ROC-AUC
